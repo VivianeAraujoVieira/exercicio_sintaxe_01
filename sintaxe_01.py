@@ -8,6 +8,6 @@ nota2 = 8
 
 nota3 = 7
  
-media = (nota1 + nota2 + nota3 / 2)
+media = (nota1 + nota2 + nota3 / 3)
 
 print(media)
